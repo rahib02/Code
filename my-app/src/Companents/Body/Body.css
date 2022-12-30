@@ -1,0 +1,81 @@
+.body {
+    padding: 0 10%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h2 {
+    font-size: 60px;
+    font-weight: 800;
+}
+
+p {
+    margin: auto;
+    max-width: 660px;
+    margin-bottom: 4rem;
+}
+
+.bodyimg {
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.bodyimg img {
+    width: 570px;
+}
+
+.form {
+    width: 570px;
+}
+
+.forms {
+    width: 100%;
+    text-align: start;
+}
+
+input {
+    margin: 15px 10px;
+    height: 40px;
+}
+
+#name {
+    width: 252px;
+}
+
+#lastname {
+    width: 252px;
+}
+
+select {
+    width: 60px;
+    height: 45px;
+}
+
+.formss select {
+    width: 100px;
+}
+
+#longs {
+    width: 450px;
+}
+
+#message {
+    width: 520px;
+    height: 300px;
+}
+
+#btn {
+    width: 520px;
+    background-color: rgb(255, 255, 0);
+    height: 40px;
+    border: none;
+    font-size: large;
+    font-weight: 900;
+
+}
+
+#kiber {
+    width: 520px;
+}
